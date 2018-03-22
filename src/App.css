@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.no-margin {
+    margin: 0 !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.m-b-5 {
+    margin-bottom: 5px !important;
+}
+
+.p-10 {
+    padding: 10px !important;
+}
+
+.m-b-30 {
+    margin-bottom: 30px !important;
+}
+
+.border-bottom {
+    border-bottom: thin solid lightgray;
+}
+
+.gray-border {
+    border: thin solid lightgray;
+}
+
+.dealership-image {
+    background-image: url('http://autofixpal.com/wp-content/uploads/2015/09/Screenshot_2015-09-04-11-32-442.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.transparent-background {
+    padding: 20% 15% 10% 15%;
+    background-color: rgba(0,100,150,0.4);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.action-style {
+  color: lightblue;
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0.4375rem 0.875rem;
+}
+
+.new-sidebar-dark {
+  background-color: #01545b;
+}
+
+.pm-b-0 {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.color-white {
+    padding: 0.4375rem 0.875rem;
+    color: white;
+}
+
+.m-t-30 {
+    margin-top: 30px !important;
+}
+
+.new-sidebar {
+    background-color: #116d76 !important;
+}
+
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
